@@ -8,4 +8,3 @@ function processArray(numbers) {
 
     });
 }
-
