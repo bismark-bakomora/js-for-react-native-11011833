@@ -1,3 +1,6 @@
+/* Task 1: A function that returns a new array where each even number is squared and each odd number
+is tripled.*/
+
 function processArray(numbers) {
     return numbers.map(number => {
         if (number % 2 === 0) {
